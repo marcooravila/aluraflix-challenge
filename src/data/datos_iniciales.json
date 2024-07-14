@@ -1,0 +1,150 @@
+{
+  "video": [
+    {
+      "title": "Equipo Front End",
+      "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "category": "Front End",
+      "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+      "id": "bbb3e082-6531-4984-a8b8-185ec677171c"
+    },
+    {
+      "title": "Consejos de CSS FlexBox para comenzar",
+      "link": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "category": "Front End",
+      "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas.",
+      "id": "a8c295c4-a89d-4d36-a8a2-f334617d98c8"
+    },
+    {
+      "title": "¿Por qué utilizar React?",
+      "link": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "category": "Front End",
+      "descripcion": "Harland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
+      "id": "00996d33-d979-4dde-9d39-ca3f48ac8a32"
+    },
+    {
+      "title": "¿Cómo un desarrollador Front End utiliza el Figma? ",
+      "link": "https://www.youtube.com/watch?v=UuAX5azcvDQ&t=19s",
+      "category": "Front End",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "id": "35d3f8de-9a11-4259-935f-aee1df9ac63c"
+    },
+    {
+      "title": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "link": "https://www.youtube.com/watch?v=MXPhyN5t0uQ",
+      "category": "Front End",
+      "descripcion": "¿Conoces el término CSS? ¿Sabes que és? En este alura.tips Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida.",
+      "id": "4cc9e9f5-52c9-4cc8-a67a-81f9b6c100b3"
+    },
+    {
+      "title": "Explorando el poder del Back-End en el Desarrollo Web",
+      "link": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "category": "Back End",
+      "descripcion": "Por qué empezar su carrera con Back End",
+      "id": "84dc0275-ef98-4ee9-89c4-5cfd2cbd56e6"
+    },
+    {
+      "title": "Empresas que aprenden",
+      "link": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "category": "Innovación",
+      "descripcion": "El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.",
+      "id": "92b52778-6675-4fbe-985d-d342aaa97a53"
+    },
+    {
+      "title": "Python para Data Science",
+      "link": "https://www.youtube.com/watch?v=JMKZMa0tMhQ",
+      "category": "Data Science",
+      "descripcion": "¿Vamos a hablar de Phyton para ciencia de datos?",
+      "id": "dd53bb81-92a8-4487-b927-92ab8dbe23ce"
+    },
+    {
+      "title": "Accesibilidad Web",
+      "link": "https://www.youtube.com/watch?v=ngMOsuZL-XE",
+      "category": "UX",
+      "descripcion": "En este Alura+, la instructora Barbara dos Santos y nuestra Scuba Mariana Costa, se juntan para hablar de un tema de extrema importancia para cualquier desarrollador: Accesibilidad Web.",
+      "id": "3e8ba5d8-7a77-485a-8e63-06f99c9bd8ad"
+    },
+    {
+      "title": "Banco de Datos MySQL",
+      "link": "https://www.youtube.com/watch?v=8J0AoPZMVxA",
+      "category": "Base de datos",
+      "descripcion": "¿Vamos a hablar de Base de datos con MySQL?",
+      "id": "3f2eafff-ecd8-43dd-8f3a-a6e8cd55b297"
+    },
+    {
+      "title": "Desmistificando el Back-End",
+      "link": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+      "category": "Back End",
+      "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? ",
+      "id": "8c7bfd64-1608-4e89-84cb-86b7295f9af3"
+    },
+    {
+      "title": "¿Por qué estudiar Data Science?",
+      "link": "https://www.youtube.com/watch?v=7_UXo-aqAeM",
+      "category": "Data Science",
+      "descripcion": "Qué es Ciencia de Datos",
+      "id": "696cb131-6e71-4566-9509-1bed2149b1f4"
+    }
+  ],
+  "category": [
+    {
+      "id": "1eff4bc8-f397-44dd-b506-f68d529ff610",
+      "name": "Front End",
+      "description": "Front End",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": "1eff4bc8-f735-44dd-b674-f68d529ff610",
+      "name": "Back End",
+      "description": "Back End",
+      "color": "#00C86F"
+    },
+    {
+      "id": "1eff4gh8-f214-44dd-b764-f68d529ff610",
+      "name": "Mobile",
+      "description": "Mobile",
+      "color": "#FFBA05"
+    },
+    {
+      "id": "1eff4nb6-f214-44dd-b444-f68d529ff610",
+      "name": "UX",
+      "description": "UX",
+      "color": "#DC6EBE"
+    },
+    {
+      "id": "1effeefe-f543-44dd-b876-f68d529ff610",
+      "name": "Infraestructura",
+      "description": "Infraestructura",
+      "color": "#9CD33B"
+    },
+    {
+      "id": "1effeefe-f087-44dd-b213-f68d529ff610",
+      "name": "Marketing",
+      "description": "Marketing",
+      "color": "#6B5BE2"
+    },
+    {
+      "id": "1effeefe-f233-44dd-b533-f68d529ff610",
+      "name": "Innovación",
+      "description": "Innovación",
+      "color": "#FF8C2A"
+    },
+    {
+      "id": "1effeefe-f766-44dd-787b-f68d529ff610",
+      "name": "Data Science",
+      "description": "Data Science",
+      "color": "#9CD33B"
+    },
+    {
+      "name": "Base de datos",
+      "description": "Base de datos",
+      "color": "#366f9b",
+      "id": "c13025cf-afbd-4d8e-943a-bcafddc08b6a"
+    },
+    {
+      "name": "fsdf",
+      "description": "sdf",
+      "color": "#a72f2f",
+      "id": "58ffe32d-89cf-418b-ba25-e23e9f223a6e"
+    }
+  ]
+}
