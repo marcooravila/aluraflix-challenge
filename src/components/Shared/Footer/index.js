@@ -25,9 +25,9 @@ const Footer = () => {
                 </Typography>
 
             <Typography color="white.main" variant="body2">
-                Desarrollado por Jefferson Panchi
-                <IconButton href="https://www.linkedin.com/in/jefferson-panchi-chacon/" target="_blank"> <LinkedInIcon color="primary" fontSize="small"/> </IconButton>
-                <IconButton href="https://github.com/jfpanchi" target="_blank"> <GitHubIcon color="primary" fontSize="small"/> </IconButton>
+                Dev by @marcooravila
+                <IconButton href="https://www.linkedin.com/in/marcooravila/" target="_blank"> <LinkedInIcon color="primary" fontSize="small"/> </IconButton>
+                <IconButton href="https://github.com/marcooravila" target="_blank"> <GitHubIcon color="primary" fontSize="small"/> </IconButton>
                 </Typography>   
             </Box>
           
